@@ -8,6 +8,7 @@ inserirNome();
 
 let linguagens = ["Javascript", "Python", "C"];
 
+// teste
 console.log(linguagens[0]);
 console.log(linguagens[1]);
 console.log(linguagens[2]);
