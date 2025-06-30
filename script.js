@@ -15,3 +15,9 @@ console.log(linguagens[2]);
 
 const item = document.querySelector("#lista");
 item.textContent = linguagens[0];
+
+let frutas = ["maça","banana","caju"];
+
+console.log(frutas[1])
+console.log(frutas[0])
+console.log(frutas[2])
