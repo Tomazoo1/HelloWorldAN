@@ -30,3 +30,6 @@ let aluno1 = {
 }
 console.log(aluno1.nome);
 console.log(aluno1.materiasFavoritas);
+
+const objeto = document.querySelector("#aluno");
+objeto.textContent = aluno1.nome;
