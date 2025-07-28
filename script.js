@@ -29,3 +29,4 @@ let aluno1 = {
   materiasFavoritas: ["Geografia","Programação","Arte"]
 }
 console.log(aluno1.nome);
+console.log(aluno1.materiasFavoritas);
