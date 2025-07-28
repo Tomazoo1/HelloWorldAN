@@ -21,3 +21,11 @@ let frutas = ["maça","banana","caju"];
 console.log(frutas[1])
 console.log(frutas[0])
 console.log(frutas[2])
+
+let aluno1 = {
+  nome: "Gabriel",
+  idade: 13,
+  anoLetivo: "2ºsérie",
+  materiasFavoritas: ["Geografia","Programação","Arte"]
+}
+console.log(aluno1.nome);
